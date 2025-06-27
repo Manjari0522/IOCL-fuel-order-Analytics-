@@ -9,3 +9,11 @@ region for Indian Oil corporation Ltd.
 3. **Power Query**- For data transforming and cleaning.
 4. **DAX**-For creating calculated fields via Power Pivot
 5. **Pivot Charts**- For visualization of Pivot tables analyzing trends. 
+
+
+## Key Objectives
+
+- Analyze PO trends and fuel dispatch timelines
+- Identify pumps with frequent delays or large quantity orders
+- Build dynamic dashboards for drill-down analysis
+- Automate cleaning of inconsistent date formats and values
