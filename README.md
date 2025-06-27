@@ -20,7 +20,7 @@ region for Indian Oil corporation Ltd.
 
 ## SQL highlights
 
-- Key Questions
+- Key Questions, Answered 
 1. What is the total fuel quantity ordered (in KL) for each product type across all pumps?
 2. How much total fuel quantity and revenue was generated for each product type at different locations?
 3. Which petrol pumps have the highest total sales, and how do they rank based on the amount spent?
@@ -70,6 +70,11 @@ These fuel types are ordered more frequently across multiple pumps, reflecting h
 
 - Fuel Diversity Exists at Larger Pumps
 Pumps with higher total orders also show a higher number of fuel types received, indicating wider operational scope.
+
+
+### **Conclusion**
+
+The fuel tracking dashboard for Jabalpur reveals a well-managed and balanced fuel distribution network. Key petrol pumps such as XYZ Petroleum and SpeedWay Fuels lead in sales and quantity, indicating their central role in regional fuel supply. Most pumps exhibit minimal dispatch delays and consistent operating hours, reflecting logistical efficiency. Additionally, XP95 and MS (Petrol) emerge as the most in-demand fuel types. Location-wise trends highlight Chhindwara and Katni as major consumption hubs. These insights can help optimize supply strategies, improve inventory planning, and enhance operational decision-making across IOCL’s network.
 
 
 
