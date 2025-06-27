@@ -4,8 +4,8 @@ Developed an interactive dashboard based on MS Excel and My SQL , which analyzes
 region for Indian Oil corporation Ltd. 
 
 ## Tools & Technologies 
-Microsoft Excel- A spreadsheet tool for data storage, cleaning and analysis.
-SQL(MySQL)- For data storing, querying and manipulating data.
-Power Query- For data transforming and cleaning.
-DAX-For creating calculated fields via Power Pivot
-Pivot Charts- For visualization of Pivot tables analyzing trends. 
+1. **Microsoft Excel**- A spreadsheet tool for data storage, cleaning and analysis.
+2. **SQL(MySQL)**- For data storing, querying and manipulating data.
+3. **Power Query**- For data transforming and cleaning.
+4. **DAX**-For creating calculated fields via Power Pivot
+5. **Pivot Charts**- For visualization of Pivot tables analyzing trends. 
