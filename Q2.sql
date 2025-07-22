@@ -3,6 +3,11 @@ Select distinct Product_Type,
  SUM(Quantity) as quantity_per_product 
  From jbp_data 
  group by Product_Type; 
+
+-- Amount of each product ordered 
+SELECT Product_Type, COUNT(*) AS type_count
+FROM jbp_data
+GROUP BY Product_Type;
  
  --  Total quantity and total revenue group by location and product type .
 SELECT distinct Product_Type,
